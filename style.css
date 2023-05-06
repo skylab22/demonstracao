@@ -1,0 +1,16 @@
+h3{
+    text-align: center;
+}
+.center{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo{
+    background-color: red;
+}
+.botaotam{
+    width:160px;
+    height:50px
+}
